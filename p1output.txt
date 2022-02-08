@@ -1,1 +1,6 @@
-
+ gcc -g p1original.c
+ ./a.out
+enter the Base
+1
+enter the Height
+2
