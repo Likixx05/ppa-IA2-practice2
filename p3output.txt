@@ -1,1 +1,12 @@
+ gcc -g p3original.c
+ ./a.out
+enter n value
+4
+COMPOSITE
 
+
+ gcc -g p3original.c
+ ./a.out
+enter n value
+2
+NOT COMPOSITE
